@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FT-Bank/static/css/main.b7f3e2f4.css",
-    "main.js": "/FT-Bank/static/js/main.51282c3f.js",
+    "main.js": "/FT-Bank/static/js/main.cc7ff1b1.js",
     "index.html": "/FT-Bank/index.html",
     "main.b7f3e2f4.css.map": "/FT-Bank/static/css/main.b7f3e2f4.css.map",
-    "main.51282c3f.js.map": "/FT-Bank/static/js/main.51282c3f.js.map"
+    "main.cc7ff1b1.js.map": "/FT-Bank/static/js/main.cc7ff1b1.js.map"
   },
   "entrypoints": [
     "static/css/main.b7f3e2f4.css",
-    "static/js/main.51282c3f.js"
+    "static/js/main.cc7ff1b1.js"
   ]
 }
